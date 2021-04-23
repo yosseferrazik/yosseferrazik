@@ -4,13 +4,13 @@
 
 ### ![](https://images-ext-1.discordapp.net/external/EaLXM2lWRbdhIDwrwUoMgmdFEF2g9IAhuDXZ2WDaAok/%3Fwidth%3D1025%26height%3D27/https/media.discordapp.net/attachments/832382081551040533/832831081954148382/THIS.png?width=922&height=24)
 
-<span style="font-size: 30px;">🌺Proyectos</span>
+## 🌺Proyectos
 
 Parte de mi miles de proyectos mueren pero estos son de los pocos que me quedan 
 
 [-Prite_](https://pritebot.itsyossef.repl.co) | Bot de discord 100% español con variedad de comandos y canva
 
-<span style="font-size: 30px;">🍃Especialidades</span>
+## 🍃Especialidades
 
 [-Discord](https://pritebot.itsyossef.repl.co) | Server manager y administrador de empresas
 
@@ -18,7 +18,7 @@ Parte de mi miles de proyectos mueren pero estos son de los pocos que me quedan�
 
 - Se configurar servers de deiscord 
 
-<span style="font-size: 30px;">☕Apoyame</span>
+## ☕Apoyame 
 
 Con pequeñas donaciones mejorais mi dia x10
 
