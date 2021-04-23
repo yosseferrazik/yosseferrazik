@@ -1,16 +1,25 @@
-### Hi there 👋
+# Sapy Development
 
-<!--
-**sapyGamer/sapyGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### > Busca lo que encienda tu alma <3 <
 
-Here are some ideas to get you started:
+### ![](https://images-ext-1.discordapp.net/external/EaLXM2lWRbdhIDwrwUoMgmdFEF2g9IAhuDXZ2WDaAok/%3Fwidth%3D1025%26height%3D27/https/media.discordapp.net/attachments/832382081551040533/832831081954148382/THIS.png?width=922&height=24)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="font-size: 30px;">🌺Proyectos</span>
+
+Parte de mi miles de proyectos mueren pero estos son de los pocos que me quedan 
+
+[-Prite_](https://pritebot.itsyossef.repl.co) | Bot de discord 100% español con variedad de comandos y canva
+
+<span style="font-size: 30px;">🍃Especialidades</span>
+
+[-Discord](https://pritebot.itsyossef.repl.co) | Server manager y administrador de empresas
+
+- Tutoriales | Si creas una api o algo que requiera aprender , hare un tutorial enseñando tu producto.  
+
+- Se configurar servers de deiscord 
+
+<span style="font-size: 30px;">☕Apoyame</span>
+
+Con pequeñas donaciones mejorais mi dia x10
+
+«[PayPal](https://www.paypal.me/sapygamer)»
