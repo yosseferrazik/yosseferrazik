@@ -8,6 +8,14 @@
 
 Parte de mi miles de proyectos mueren pero estos son de los pocos que me quedan 
 
+«[Kahoot-Spammer](https://github.com/sapyGamer/Kahoot-Spammer)» Reventar partidas de kahoot con bots
+
+«[Letter-Form](https://github.com/sapyGamer/Letter-Form)» Convertir imagenes en letras
+
+«[PixelArt-GitHUb](https://github.com/sapyGamer/Pixel-Art-GitHub)» Un programa para hacer pixel art 
+
+[y mas...](https://github.com/sapyGamer?tab=repositories)
+
 
 ## 🍃Especialidades
 
