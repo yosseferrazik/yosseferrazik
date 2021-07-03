@@ -6,45 +6,7 @@
 
 ## 🌺Proyectos
 
-Parte de mi miles de proyectos mueren pero estos son de los pocos que me quedan 
-
-«[Kahoot-Spammer](https://github.com/sapyGamer/Kahoot-Spammer)» Reventar partidas de kahoot con bots
-
-«[Letter-Form](https://github.com/sapyGamer/Letter-Form)» Convertir imagenes en letras
-
-«[PixelArt-GitHUb](https://github.com/sapyGamer/Pixel-Art-GitHub)» Una web para hacer pixel art 
-
-«[Sapy.tk](http://sapygamer.tk)» Una plataforma educativa .
-
-
-[y mas...](https://github.com/sapyGamer?tab=repositories)
-
-
-## 🍃Especialidades
-
-# Discord 
-
--Dessarollador de bots de dicord con mas de 20 comandos
-
--Server manager
-
--Giveaway manager
-
--Se configurar/crear un server de discord
-
-# HTML y dessarolo web
-
--Paginas para bots de discord (no dashboard)
-
--Paginas personales 
-
--Paginas web a base de html , css y js ( no php ni miSQL )
-
-# Otros
-
-- Tutoriales | Si creas una api o algo que requiera aprender , hare un tutorial enseñando tu producto.  
-
-- Se configurar servers de deiscord 
+## PRÓXIMAMENTE 
 
 
 ## ☕Apoyame 
