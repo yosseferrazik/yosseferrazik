@@ -2,10 +2,10 @@
 ###> Look for what ignites your soul <3 <
 
 ``` js
-Const happy = require("you")
+const happy = require("you")
 if(justMetYou){
 crazy = true 
-happy
+await happy
 }
 
 ```
