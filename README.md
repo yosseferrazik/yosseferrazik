@@ -22,7 +22,7 @@ await happy
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanessKA)](https://github.com/anuraghazra/github-readme-stats)
+[![Kham's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanessKA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ☕Support me
