@@ -22,6 +22,9 @@ await happy
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KhanessKA=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## ☕Support me
 
 «[Ko-Fi](https://ko-fi.com/sapygamer)»
