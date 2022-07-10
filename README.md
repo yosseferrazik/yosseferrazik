@@ -1,6 +1,5 @@
 # KhanessKA
-<img href="https://github.com/KhanessKA" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;<img href="https://dsc.bio/khaness" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-
+<img src="https://discord.c99.nl/widget/theme-4/898444313049042974.png" />
 ### > Look for what ignites your soul <3 <
 ``` js
 const happy = require("you")
