@@ -3,7 +3,7 @@
 <img src="https://discord.c99.nl/widget/theme-4/898444313049042974.png" />
 
 
-![KhanessKA](https://github-readme-stats.vercel.app/api?username=KhanessKA&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![KhanessKA](https://github-readme-stats.vercel.app/api?username=KhanessKA&show_icons=true&bg_color=black)
 
 
 ### Languages and Tools:
