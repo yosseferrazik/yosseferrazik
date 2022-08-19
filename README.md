@@ -1,18 +1,9 @@
 # KhanessKA
 
 <img src="https://discord.c99.nl/widget/theme-4/898444313049042974.png" />
-<br/>
+
+
 ![KhanessKA](https://github-readme-stats.vercel.app/api?username=KhanessKA&show_icons=true&theme=radical)
-
-### > Look for what ignites your soul <3 <
-``` js
-const happy = require("you")
-if(justMeetYou){
-crazy = true
-await happy
-}
-
-```
 
 
 ### Languages and Tools:
