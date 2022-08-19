@@ -2,7 +2,7 @@
 
 <img src="https://discord.c99.nl/widget/theme-4/898444313049042974.png" />
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanessKA&layout=compact)
+![KhanessKA](https://github-readme-stats.vercel.app/api?username=KhanessKA&show_icons=true&theme=radical)
 
 ### > Look for what ignites your soul <3 <
 ``` js
