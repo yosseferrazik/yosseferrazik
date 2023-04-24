@@ -1,4 +1,5 @@
 ![banner](https://i.imgur.com/vg1hG4P.png)
+<img src="https://i.imgur.com/vg1hG4P.png" with="auto"height="auto" />
 <img src="https://discord.c99.nl/widget/theme-4/898444313049042974.png" />
 
 ## 📌  Links
