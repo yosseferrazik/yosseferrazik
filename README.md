@@ -2,6 +2,12 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">  Helouda gente de Github 
 Aqui es donde robo codigo y de vez en cuando hago algo productivo 
+- 🤖 &nbsp;Actualmente estoy trabajando en mi portafolio web
+- 🌱 &nbsp;Aprendiendo Javscript (y sus respectivos frameworks)
+- 👨‍💻 &nbsp;Puedes si quieres saber algo mas de mi puedes visitar mi [portafolio](https://khanesska.github.io)
+- 💬 &nbsp;Puedes contactar conmigo via Discord u otras redes 
+- ⚡ &nbsp; Me encanta jugar Overwatch 2 con amigos
+
 ### 🔧  Herramientas
 [![Habilidades](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,github,discord)](https://skillicons.dev)
 ### 📊  Estadisticas
