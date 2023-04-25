@@ -1,15 +1,12 @@
-![banner](https://i.imgur.com/vg1hG4P.png)
-<img src="https://i.imgur.com/vg1hG4P.png" with="auto"height="auto" />
-<img src="https://discord.c99.nl/widget/theme-4/898444313049042974.png" />
+![banner](https://i.imgur.com/LFPhSU7.jpg)
 
-## 📌  Links
-
-##  🔧   Herramientas que uso
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">  Helouda gente de Github 
+Aqui es donde robo codigo y de vez en cuando hago algo productivo 
+### 🔧  Herramientas
 [![Habilidades](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,github,discord)](https://skillicons.dev)
-
-## 📊  Mis estadisticas
+### 📊  Estadisticas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanessKA&theme=merko&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=KhanessKA&theme=merko&show_icons=true)
-
 
 
