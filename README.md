@@ -8,6 +8,8 @@ Aqui es donde robo codigo y de vez en cuando hago algo productivo
 - 💬 &nbsp;Puedes contactar conmigo via Discord u otras redes 
 - ⚡ &nbsp;Me encanta jugar Hollow Knight y Overwatch 2 con amigos
 
+![Xd](https://i.imgur.com/KwwXxu3.png)
+
 ### 🔧  Herramientas
 [![Habilidades](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,github,discord)](https://skillicons.dev)
 ---
