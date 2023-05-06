@@ -1,9 +1,10 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">  Helouda gente de Github 
-Aqui es donde robo codigo y de vez en cuando hago algo productivo 
-- 🤖 &nbsp;Actualmente estoy trabajando en mi portafolio web
-- 🌱 &nbsp;Aprendiendo Javscript (y sus respectivos frameworks)
-- 💬 &nbsp;Puedes contactar conmigo via Discord u otras redes 
-- ⚡ &nbsp;Amo Hollow Knight , pero mas amo a mis amigos...Nah , los amo por igual
+##### Aquí es donde robo código y de vez en cuando hago algo productivo
+<br/>
+- 👨‍💻  Aprendiendo a programar y relacionados
+- 🌱 Intento aprender algo nuevo cada día
+- 💬 Si quieres contactar conmigo puedes hacerlo por Discord
+- 🪲  Mi juego favorito con diferencia hasta la fecha es Hollow KNight
 
 ### Bonito jaque mate que hice
 ![Xd](https://i.imgur.com/KwwXxu3.png)
