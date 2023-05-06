@@ -1,5 +1,3 @@
-![banner](https://i.imgur.com/LFPhSU7.jpg)
-
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">  Helouda gente de Github 
 Aqui es donde robo codigo y de vez en cuando hago algo productivo 
 - 🤖 &nbsp;Actualmente estoy trabajando en mi portafolio web
