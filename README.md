@@ -1,6 +1,7 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">  Helouda gente de Github 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> &nbsp; Helouda gente de Github 
 ##### Aquí es donde robo código y de vez en cuando hago algo productivo
 <br/>
+
 - 👨‍💻  Aprendiendo a programar y relacionados
 - 🌱 Intento aprender algo nuevo cada día
 - 💬 Si quieres contactar conmigo puedes hacerlo por Discord
